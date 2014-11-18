@@ -6,12 +6,12 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		Frame f = new Calculator("Р?Р»СЊРёРЅСЃРєРёР№ Р’РёС‚Р°Р»РёР№ - РљР°Р»СЊРєСѓР»СЏС‚РѕСЂ");
+		Frame f = new Calculator("Ильинский Виталий - Калькулятор");
 		f.setVisible(true);
 		f.setBounds(7, 7, 400, 260);
 		f.setResizable(false);
 	}
-} /* РћРєРѕРЅС‡Р°РЅРёРµ РєР»Р°СЃСЃР° App */ 
+} /* Окончание класса Main */ 
 
 
  
